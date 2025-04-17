@@ -22,9 +22,9 @@ This project is part of the Scrimba course on building websites with HTML and CS
 
 ## 📂 Folder Structure
 
-📁 Scrimba-Build-Websites-HTML-CSS-Simple-Card
+📁 Scrimba-HTML-CSS-Simple-Card
 ├── index.html
-└── styles.css
+└── index.css
 
 ## 🧠 What I Learned
 
