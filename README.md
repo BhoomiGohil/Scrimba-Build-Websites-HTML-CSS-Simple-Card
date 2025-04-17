@@ -1,4 +1,3 @@
-```markdown
 # Card UI Layout – Scrimba HTML & CSS Practice
 
 This project is part of the Scrimba course on building websites with HTML and CSS. It focuses on creating a clean and responsive card component using only HTML and CSS — ideal for beginners looking to strengthen their layout and styling skills.
@@ -45,4 +44,3 @@ This project is based on one of the practice projects from Scrimba's **"Build We
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
