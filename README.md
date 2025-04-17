@@ -17,7 +17,7 @@ This project is part of the Scrimba course on building websites with HTML and CS
 
 ## 📸 Preview
 
-![Card Preview](preview.png)
+![Card Preview](Preview.png)
 
 ## 📂 Folder Structure
 
