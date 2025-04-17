@@ -19,8 +19,8 @@ This project is part of the Scrimba course on building websites with HTML and CS
 
 ![Card Preview](Preview.png)
 
-```
 ## 📂 Folder Structure
+```
 📁 Scrimba-HTML-CSS-Simple-Card
 ├── index.html
 └── index.css
