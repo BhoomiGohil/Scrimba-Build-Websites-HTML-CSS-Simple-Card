@@ -1,5 +1,5 @@
 ```markdown
-# Scrimba-Build-Websites-HTML-CSS-Simple-Card
+# Card UI Layout – Scrimba HTML & CSS Practice
 
 This project is part of the Scrimba course on building websites with HTML and CSS. It focuses on creating a clean and responsive card component using only HTML and CSS — ideal for beginners looking to strengthen their layout and styling skills.
 
@@ -22,11 +22,9 @@ This project is part of the Scrimba course on building websites with HTML and CS
 
 ## 📂 Folder Structure
 
-```
 📁 Scrimba-Build-Websites-HTML-CSS-Simple-Card
 ├── index.html
 └── styles.css
-```
 
 ## 🧠 What I Learned
 
